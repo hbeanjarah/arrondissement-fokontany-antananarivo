@@ -1,0 +1,1166 @@
+[
+  {
+    "id": "edec39c1-a056-4b6d-8872-bb914c945eb6",
+    "name": "Ier Arrondissement",
+    "fokontany": [
+      {
+        "id": "f5ffcda4-f250-44e1-8a7b-1913eab39653",
+        "name": "Ambalavao-Isotry",
+        "code": "1_01",
+        "arrondissementId": "edec39c1-a056-4b6d-8872-bb914c945eb6"
+      },
+      {
+        "id": "213cdc5f-cb53-4a8f-9c08-d2c2a0b92d5a",
+        "name": "Ambatonakanga-Ambohitsorohitra",
+        "code": "1_02",
+        "arrondissementId": "edec39c1-a056-4b6d-8872-bb914c945eb6"
+      },
+      {
+        "id": "bd496624-497a-4256-b842-bb727d33a49b",
+        "name": "Ambatovinaky",
+        "code": "1_03",
+        "arrondissementId": "edec39c1-a056-4b6d-8872-bb914c945eb6"
+      },
+      {
+        "id": "aba26f7e-c453-4a26-8ac1-3a87ce223e18",
+        "name": "Ambodifilao-Soarano II S",
+        "code": "1_04",
+        "arrondissementId": "edec39c1-a056-4b6d-8872-bb914c945eb6"
+      },
+      {
+        "id": "01d12ee4-c34a-4129-8bdb-7847586bccf8",
+        "name": "Ampandrana-Ankadivato",
+        "code": "1_05",
+        "arrondissementId": "edec39c1-a056-4b6d-8872-bb914c945eb6"
+      },
+      {
+        "id": "fb640a26-7c73-4bb5-b6b5-5a5fc8b627c6",
+        "name": "Amparibe-Avaratr\\'Imahamasina",
+        "code": "1_06",
+        "arrondissementId": "edec39c1-a056-4b6d-8872-bb914c945eb6"
+      },
+      {
+        "id": "1bf5a3ad-3181-43b9-b4ac-ff69422165d8",
+        "name": "Ampasamadinika-Amboasarikely",
+        "code": "1_07",
+        "arrondissementId": "edec39c1-a056-4b6d-8872-bb914c945eb6"
+      },
+      {
+        "id": "9a4693f6-e77f-4b23-8c48-e1f66bed4c2a",
+        "name": "Andavamamba-Anatihazo I",
+        "code": "1_08",
+        "arrondissementId": "edec39c1-a056-4b6d-8872-bb914c945eb6"
+      },
+      {
+        "id": "46263023-cff0-4a57-b417-e072d4fae61d",
+        "name": "Andavamamba-Anatihazo II",
+        "code": "1_09",
+        "arrondissementId": "edec39c1-a056-4b6d-8872-bb914c945eb6"
+      },
+      {
+        "id": "395243fe-bf49-4915-a163-e616891c9dd3",
+        "name": "Andavamamba-Anjezika I",
+        "code": "1_10",
+        "arrondissementId": "edec39c1-a056-4b6d-8872-bb914c945eb6"
+      },
+      {
+        "id": "918f503c-0908-4c2b-b2cb-84096c81f5f2",
+        "name": "Andavamamba-Anjezika II",
+        "code": "1_11",
+        "arrondissementId": "edec39c1-a056-4b6d-8872-bb914c945eb6"
+      },
+      {
+        "id": "74b06c9c-7b2e-4979-8992-2c28cb1eba99",
+        "name": "Andohatapenaka I",
+        "code": "1_12",
+        "arrondissementId": "edec39c1-a056-4b6d-8872-bb914c945eb6"
+      },
+      {
+        "id": "f8c18c38-c475-44e9-af5a-e54afa2f6a7e",
+        "name": "Andohatapenaka II",
+        "code": "1_13",
+        "arrondissementId": "edec39c1-a056-4b6d-8872-bb914c945eb6"
+      },
+      {
+        "id": "e25be7ca-9f9c-4853-8551-df3eea7241cc",
+        "name": "Andohatapenaka III",
+        "code": "1_14",
+        "arrondissementId": "edec39c1-a056-4b6d-8872-bb914c945eb6"
+      },
+      {
+        "id": "38c85fd3-3ce3-40a7-8056-9c05571ae507",
+        "name": "Andranomanalina Afovoany",
+        "code": "1_15",
+        "arrondissementId": "edec39c1-a056-4b6d-8872-bb914c945eb6"
+      },
+      {
+        "id": "d8afb808-c176-44a6-bd7a-5546fb21873a",
+        "name": "Andranomanalina I",
+        "code": "1_16",
+        "arrondissementId": "edec39c1-a056-4b6d-8872-bb914c945eb6"
+      },
+      {
+        "id": "d1d61ed0-fac0-4f59-843b-8ddd15a7f0e4",
+        "name": "Andranomanalina-Isotry",
+        "code": "1_17",
+        "arrondissementId": "edec39c1-a056-4b6d-8872-bb914c945eb6"
+      },
+      {
+        "id": "a3cb10b4-9d4a-4eaf-af18-1af8fc86876d",
+        "name": "Ankasina",
+        "code": "1_18",
+        "arrondissementId": "edec39c1-a056-4b6d-8872-bb914c945eb6"
+      },
+      {
+        "id": "72be982d-e2f6-47bf-8e7e-7165b0f77c11",
+        "name": "Antanimalalaka-Analakely",
+        "code": "1_19",
+        "arrondissementId": "edec39c1-a056-4b6d-8872-bb914c945eb6"
+      },
+      {
+        "id": "98ebef94-60cd-4db4-8bfa-1ef4d2c536ac",
+        "name": "Antetezana Fovoany I",
+        "code": "1_20",
+        "arrondissementId": "edec39c1-a056-4b6d-8872-bb914c945eb6"
+      },
+      {
+        "id": "5c2b07df-61cc-4c52-9ed2-8edaa8be7f87",
+        "name": "Antetezana Fovoany II",
+        "code": "1_21",
+        "arrondissementId": "edec39c1-a056-4b6d-8872-bb914c945eb6"
+      },
+      {
+        "id": "5e26b8e3-cc4b-4066-9d4f-244b0f90109d",
+        "name": "Antohomadinika Afovoany III F",
+        "code": "1_22",
+        "arrondissementId": "edec39c1-a056-4b6d-8872-bb914c945eb6"
+      },
+      {
+        "id": "64e254d1-1185-407f-a188-49f1ecbb5d36",
+        "name": "Antohomadinika Atsimo",
+        "code": "1_23",
+        "arrondissementId": "edec39c1-a056-4b6d-8872-bb914c945eb6"
+      },
+      {
+        "id": "f5376edf-70e4-4ab1-94e0-f1563ffa876c",
+        "name": "Antohomadinika-Antaniavo",
+        "code": "1_24",
+        "arrondissementId": "edec39c1-a056-4b6d-8872-bb914c945eb6"
+      },
+      {
+        "id": "7c3a5fe3-f046-45cf-ac0f-a68e1b10f305",
+        "name": "Antohomadinika-FAAMI",
+        "code": "1_25",
+        "arrondissementId": "edec39c1-a056-4b6d-8872-bb914c945eb6"
+      },
+      {
+        "id": "8b0d4e37-6b3d-4ebe-b75f-7b5e4bf4d2a7",
+        "name": "Antohomadinika III G Hangar",
+        "code": "1_26",
+        "arrondissementId": "edec39c1-a056-4b6d-8872-bb914c945eb6"
+      },
+      {
+        "id": "ea7360c2-18dd-406a-a75a-aafde7f3db4f",
+        "name": "Avaratetezana-Bekiraro",
+        "code": "1_27",
+        "arrondissementId": "edec39c1-a056-4b6d-8872-bb914c945eb6"
+      },
+      {
+        "id": "573565df-4215-4967-95b0-115cf6e7d9a3",
+        "name": "Cité-Ambodin\\'Isotry",
+        "code": "1_28",
+        "arrondissementId": "edec39c1-a056-4b6d-8872-bb914c945eb6"
+      },
+      {
+        "id": "d0a9c25c-dc04-49ff-8b45-d35a9faac458",
+        "name": "Cité Ampefiloha",
+        "code": "1_29",
+        "arrondissementId": "edec39c1-a056-4b6d-8872-bb914c945eb6"
+      },
+      {
+        "id": "dbf888d3-62f9-4d3f-a5f2-2399277afb8e",
+        "name": "Cité 67 ha Afovoany-Andrefana",
+        "code": "1_30",
+        "arrondissementId": "edec39c1-a056-4b6d-8872-bb914c945eb6"
+      },
+      {
+        "id": "497eaf1f-8a2c-48ad-9444-d5457402a825",
+        "name": "Cité 67 ha Atsimo",
+        "code": "1_31",
+        "arrondissementId": "edec39c1-a056-4b6d-8872-bb914c945eb6"
+      },
+      {
+        "id": "3fc4e99f-70b3-4f19-a94c-85a57c8c4dc8",
+        "name": "Cité 67 ha Avaratra-Andrefana",
+        "code": "1_32",
+        "arrondissementId": "edec39c1-a056-4b6d-8872-bb914c945eb6"
+      },
+      {
+        "id": "a137d7b5-34fa-4551-87bc-088d04d24c4c",
+        "name": "Cité 67 ha Avaratra-Atsinanana",
+        "code": "1_33",
+        "arrondissementId": "edec39c1-a056-4b6d-8872-bb914c945eb6"
+      },
+      {
+        "id": "540696ac-b31c-4af4-ae51-454e6e21eb50",
+        "name": "Faravohitra Ambony",
+        "code": "1_34",
+        "arrondissementId": "edec39c1-a056-4b6d-8872-bb914c945eb6"
+      },
+      {
+        "id": "da120a50-1505-4e79-ad52-341d2bc92cca",
+        "name": "Faravohitra-Mandrosoa",
+        "code": "1_35",
+        "arrondissementId": "edec39c1-a056-4b6d-8872-bb914c945eb6"
+      },
+      {
+        "id": "63ccf20a-69a7-42b9-b2f3-5f16954d0e81",
+        "name": "Isoraka-Ampatsakana-Ambalavao",
+        "code": "1_36",
+        "arrondissementId": "edec39c1-a056-4b6d-8872-bb914c945eb6"
+      },
+      {
+        "id": "fc4092f6-c614-45c5-b232-8aff9b27ee1d",
+        "name": "Tsaralalana-Isotry FIATA",
+        "code": "1_37",
+        "arrondissementId": "edec39c1-a056-4b6d-8872-bb914c945eb6"
+      },
+      {
+        "id": "a5f8cfee-d31d-44ac-8e11-c0eda74d2924",
+        "name": "Manarintsoa Afovoany",
+        "code": "1_38",
+        "arrondissementId": "edec39c1-a056-4b6d-8872-bb914c945eb6"
+      },
+      {
+        "id": "ed8a9ce5-0455-4f14-a573-995341023a40",
+        "name": "Ambalavao-Isotry",
+        "code": "1_39",
+        "arrondissementId": "edec39c1-a056-4b6d-8872-bb914c945eb6"
+      },
+      {
+        "id": "76026eff-1892-47fe-8842-287e9d9e6feb",
+        "name": "Ambalavao-Isotry",
+        "code": "1_40",
+        "arrondissementId": "edec39c1-a056-4b6d-8872-bb914c945eb6"
+      }
+    ]
+  },
+  {
+    "id": "c9cc2aee-5193-4bc1-8ae5-7321700d6995",
+    "name": "IIème Arrondissement",
+    "fokontany": [
+      {
+        "id": "f582a35e-b83f-4ed6-86d9-6905d87f920a",
+        "name": "Ambohipo",
+        "code": "2_01",
+        "arrondissementId": "c9cc2aee-5193-4bc1-8ae5-7321700d6995"
+      },
+      {
+        "id": "71e1823d-a64f-46d3-b9d9-a4db904c54ba",
+        "name": "Ambolokandrina",
+        "code": "2_02",
+        "arrondissementId": "c9cc2aee-5193-4bc1-8ae5-7321700d6995"
+      },
+      {
+        "id": "19925c4b-0e84-4cc0-8c1c-440342b8bbb7",
+        "name": "Androndrakely",
+        "code": "2_03",
+        "arrondissementId": "c9cc2aee-5193-4bc1-8ae5-7321700d6995"
+      },
+      {
+        "id": "7f71317e-525b-465c-914d-72a8b5805e2a",
+        "name": "Morarano",
+        "code": "2_04",
+        "arrondissementId": "c9cc2aee-5193-4bc1-8ae5-7321700d6995"
+      },
+      {
+        "id": "6e14ba1c-4a60-47ac-a5e3-5fd86e88ad08",
+        "name": "Tsiadana",
+        "code": "2_05",
+        "arrondissementId": "c9cc2aee-5193-4bc1-8ae5-7321700d6995"
+      },
+      {
+        "id": "304860c9-2d84-44a2-b008-a690e5e3f3b2",
+        "name": "Ambohitsoa",
+        "code": "2_06",
+        "arrondissementId": "c9cc2aee-5193-4bc1-8ae5-7321700d6995"
+      },
+      {
+        "id": "007ac5f9-ab08-41d6-91e8-4a120f28e41e",
+        "name": "Faliarivo Ambanidia",
+        "code": "2_07",
+        "arrondissementId": "c9cc2aee-5193-4bc1-8ae5-7321700d6995"
+      },
+      {
+        "id": "4fa2e384-86a6-4a04-90a0-e0216edb8ffd",
+        "name": "Mandroseza",
+        "code": "2_08",
+        "arrondissementId": "c9cc2aee-5193-4bc1-8ae5-7321700d6995"
+      },
+      {
+        "id": "de0e3326-e4c2-4a80-8585-689dd58311d6",
+        "name": "Antanimora Ampasanimalo",
+        "code": "2_09",
+        "arrondissementId": "c9cc2aee-5193-4bc1-8ae5-7321700d6995"
+      },
+      {
+        "id": "952c5113-9273-47c8-a0d7-513a9dd2eaf6",
+        "name": "Ambatoroka",
+        "code": "2_10",
+        "arrondissementId": "c9cc2aee-5193-4bc1-8ae5-7321700d6995"
+      },
+      {
+        "id": "db1e8512-fd27-4657-98b4-d97dd72314c5",
+        "name": "Ambohimiandra",
+        "code": "2_11",
+        "arrondissementId": "c9cc2aee-5193-4bc1-8ae5-7321700d6995"
+      },
+      {
+        "id": "4772ec4a-09e5-43d5-89fc-1e334b06cc7c",
+        "name": "Miandrarivo",
+        "code": "2_12",
+        "arrondissementId": "c9cc2aee-5193-4bc1-8ae5-7321700d6995"
+      },
+      {
+        "id": "ca15aaf5-3e81-4811-be4e-9f6bde316192",
+        "name": "Manakambahiny",
+        "code": "2_13",
+        "arrondissementId": "c9cc2aee-5193-4bc1-8ae5-7321700d6995"
+      },
+      {
+        "id": "f5a23f1a-6794-49f4-b767-da2d74cbec8a",
+        "name": "Mahazoarivo",
+        "code": "2_14",
+        "arrondissementId": "c9cc2aee-5193-4bc1-8ae5-7321700d6995"
+      },
+      {
+        "id": "4d59bd19-1783-45df-a7da-8a5d7705a33d",
+        "name": "Andafiavaratra",
+        "code": "2_15",
+        "arrondissementId": "c9cc2aee-5193-4bc1-8ae5-7321700d6995"
+      },
+      {
+        "id": "0555c282-b240-48a7-abdd-a1efdca8aaeb",
+        "name": "Manjakamiadana",
+        "code": "2_16",
+        "arrondissementId": "c9cc2aee-5193-4bc1-8ae5-7321700d6995"
+      },
+      {
+        "id": "ea42ada7-694d-410d-a7a0-83579d5715b3",
+        "name": "Ampamantanana",
+        "code": "2_17",
+        "arrondissementId": "c9cc2aee-5193-4bc1-8ae5-7321700d6995"
+      },
+      {
+        "id": "a8f3290f-c772-4ee1-97b2-4def22d30301",
+        "name": "Andohanimandroseza",
+        "code": "2_18",
+        "arrondissementId": "c9cc2aee-5193-4bc1-8ae5-7321700d6995"
+      },
+      {
+        "id": "77f17821-813d-4c30-9bbd-994e15a45ebf",
+        "name": "Antsahabe",
+        "code": "2_19",
+        "arrondissementId": "c9cc2aee-5193-4bc1-8ae5-7321700d6995"
+      },
+      {
+        "id": "fb0b57f8-1c4a-45fa-a5d3-67762aecf5b3",
+        "name": "Volosarika",
+        "code": "2_20",
+        "arrondissementId": "c9cc2aee-5193-4bc1-8ae5-7321700d6995"
+      },
+      {
+        "id": "98870254-51f2-4a5a-a8ca-61ddff42b09b",
+        "name": "Ambohipotsy",
+        "code": "2_21",
+        "arrondissementId": "c9cc2aee-5193-4bc1-8ae5-7321700d6995"
+      },
+      {
+        "id": "0f8e1f5a-4ada-4aa9-805f-4d8a4d1d4449",
+        "name": "Ambohitsiroa VN",
+        "code": "2_22",
+        "arrondissementId": "c9cc2aee-5193-4bc1-8ae5-7321700d6995"
+      },
+      {
+        "id": "de46d0bf-887f-455d-a68d-df907a1ee79e",
+        "name": "Ankazotokana Ambony",
+        "code": "2_23",
+        "arrondissementId": "c9cc2aee-5193-4bc1-8ae5-7321700d6995"
+      },
+      {
+        "id": "1b5b31f0-fe79-49c2-a594-7e2ef29f143c",
+        "name": "Andohamandry",
+        "code": "2_24",
+        "arrondissementId": "c9cc2aee-5193-4bc1-8ae5-7321700d6995"
+      }
+    ]
+  },
+  {
+    "id": "6de8cf9e-89a1-4e58-802d-7279e9eb7047",
+    "name": "IIIème Arrondissement",
+    "fokontany": [
+      {
+        "id": "983fdb2a-da78-4148-8bd5-9cbf0729d4a9",
+        "name": "Ambatomitsangana",
+        "code": "3_01",
+        "arrondissementId": "6de8cf9e-89a1-4e58-802d-7279e9eb7047"
+      },
+      {
+        "id": "0fb7b0eb-8a1e-4fb7-aef7-c3f6f75c4853",
+        "name": "Antsakaviro Ambodirotra",
+        "code": "3_02",
+        "arrondissementId": "6de8cf9e-89a1-4e58-802d-7279e9eb7047"
+      },
+      {
+        "id": "870060cf-1231-4719-a709-02bc29b4c585",
+        "name": "Ambodivona Ankadifotsy",
+        "code": "3_03",
+        "arrondissementId": "6de8cf9e-89a1-4e58-802d-7279e9eb7047"
+      },
+      {
+        "id": "5dbf2614-6e2e-4669-a6c5-dfab4f601a0b",
+        "name": "Ambohibary Antanimena",
+        "code": "3_04",
+        "arrondissementId": "6de8cf9e-89a1-4e58-802d-7279e9eb7047"
+      },
+      {
+        "id": "ef2072cd-b0ac-44cb-9e4e-9a8680669cd4",
+        "name": "Ambohitrakely",
+        "code": "3_05",
+        "arrondissementId": "6de8cf9e-89a1-4e58-802d-7279e9eb7047"
+      },
+      {
+        "id": "3d448eef-7e82-4c86-b5f8-eef2a3f5cb1d",
+        "name": "Ampahibe",
+        "code": "3_06",
+        "arrondissementId": "6de8cf9e-89a1-4e58-802d-7279e9eb7047"
+      },
+      {
+        "id": "a88fd780-fce1-495f-9102-263ce0f843c3",
+        "name": "Ampandrana ouest",
+        "code": "3_07",
+        "arrondissementId": "6de8cf9e-89a1-4e58-802d-7279e9eb7047"
+      },
+      {
+        "id": "8a167bcf-5ca6-4348-a0ad-db0cff97c7c2",
+        "name": "Ampandrana est",
+        "code": "3_08",
+        "arrondissementId": "6de8cf9e-89a1-4e58-802d-7279e9eb7047"
+      },
+      {
+        "id": "80c13ae8-4ebf-4e34-a785-4a38d1897abe",
+        "name": "Ampandrana Besarety",
+        "code": "3_09",
+        "arrondissementId": "6de8cf9e-89a1-4e58-802d-7279e9eb7047"
+      },
+      {
+        "id": "b1274b34-0e05-4ea1-92c0-350f61c3cfb0",
+        "name": "Andranomahery Ankorondrano",
+        "code": "3_10",
+        "arrondissementId": "6de8cf9e-89a1-4e58-802d-7279e9eb7047"
+      },
+      {
+        "id": "ad46847b-01fb-4b5d-8211-28d67d2e3862",
+        "name": "Andravoahangy Ouest",
+        "code": "3_11",
+        "arrondissementId": "6de8cf9e-89a1-4e58-802d-7279e9eb7047"
+      },
+      {
+        "id": "7fe169d6-6c1f-452c-97c4-97e825e8a6ea",
+        "name": "Andravoahangy est",
+        "code": "3_12",
+        "arrondissementId": "6de8cf9e-89a1-4e58-802d-7279e9eb7047"
+      },
+      {
+        "id": "97f32bb5-829d-45bb-b444-38cf4eda2095",
+        "name": "Andravoahangy tsena",
+        "code": "3_13",
+        "arrondissementId": "6de8cf9e-89a1-4e58-802d-7279e9eb7047"
+      },
+      {
+        "id": "add742b0-37b8-48ba-927c-6335239f7a3e",
+        "name": "Ankadifotsy Antanifotsy",
+        "code": "3_14",
+        "arrondissementId": "6de8cf9e-89a1-4e58-802d-7279e9eb7047"
+      },
+      {
+        "id": "8aba27db-188c-435d-a4f2-8cb1cf31b3f1",
+        "name": "Ankaditapaka Nord",
+        "code": "3_15",
+        "arrondissementId": "6de8cf9e-89a1-4e58-802d-7279e9eb7047"
+      },
+      {
+        "id": "99970679-49d9-4f60-b2f2-f984d14bc971",
+        "name": "Ankadivato II L",
+        "code": "3_16",
+        "arrondissementId": "6de8cf9e-89a1-4e58-802d-7279e9eb7047"
+      },
+      {
+        "id": "e4f2635f-d5e7-46fa-8781-4f081fc7d800",
+        "name": "Ankazomanga Andraharo",
+        "code": "3_17",
+        "arrondissementId": "6de8cf9e-89a1-4e58-802d-7279e9eb7047"
+      },
+      {
+        "id": "95abaf4e-fbcc-4c94-b976-f3e9db06aa25",
+        "name": "Ankorondrano Ouest",
+        "code": "3_18",
+        "arrondissementId": "6de8cf9e-89a1-4e58-802d-7279e9eb7047"
+      },
+      {
+        "id": "c3b6acfc-3f47-4e3c-9d32-9efe6aa8e70d",
+        "name": "Ankorondrano est",
+        "code": "3_19",
+        "arrondissementId": "6de8cf9e-89a1-4e58-802d-7279e9eb7047"
+      },
+      {
+        "id": "b4789d91-753f-42ae-a256-52e1a6e8e45e",
+        "name": "Antanimena",
+        "code": "3_20",
+        "arrondissementId": "6de8cf9e-89a1-4e58-802d-7279e9eb7047"
+      },
+      {
+        "id": "7601b63f-a460-46b5-b9bb-f7064ac83dcc",
+        "name": "Antaninandro Ampandrana",
+        "code": "3_21",
+        "arrondissementId": "6de8cf9e-89a1-4e58-802d-7279e9eb7047"
+      },
+      {
+        "id": "743c92fc-176b-40d2-8ee9-ab363ea12417",
+        "name": "Avaradoha",
+        "code": "3_22",
+        "arrondissementId": "6de8cf9e-89a1-4e58-802d-7279e9eb7047"
+      },
+      {
+        "id": "66e83f24-c0bc-4922-bf06-a4b4f22cb48c",
+        "name": "Befeletanana Ankadifotsy",
+        "code": "3_23",
+        "arrondissementId": "6de8cf9e-89a1-4e58-802d-7279e9eb7047"
+      },
+      {
+        "id": "37445377-b4ec-4193-a14b-d4e986508073c",
+        "name": "Behoririka",
+        "code": "3_24",
+        "arrondissementId": "6de8cf9e-89a1-4e58-802d-7279e9eb7047"
+      },
+      {
+        "id": "78cfcf4a-1187-4ec0-b8f3-b1cbabad2c3e",
+        "name": "Behoririka Ambatomitsangana",
+        "code": "3_25",
+        "arrondissementId": "6de8cf9e-89a1-4e58-802d-7279e9eb7047"
+      },
+      {
+        "id": "7ece3e61-7163-4f6d-a8db-1a5f1b4cd7a8",
+        "name": "Behoririka Ankaditapaka",
+        "code": "3_26",
+        "arrondissementId": "6de8cf9e-89a1-4e58-802d-7279e9eb7047"
+      },
+      {
+        "id": "09ecf12d-4436-499f-93c6-40375bc71b75",
+        "name": "Besarety",
+        "code": "3_27",
+        "arrondissementId": "6de8cf9e-89a1-4e58-802d-7279e9eb7047"
+      },
+      {
+        "id": "e63f9e43-0b3d-4c19-ad45-4837ef426fef",
+        "name": "Betongolo",
+        "code": "3_28",
+        "arrondissementId": "6de8cf9e-89a1-4e58-802d-7279e9eb7047"
+      },
+      {
+        "id": "70dda722-efc0-4275-a412-2fe4d6cd0280",
+        "name": "Mahavoky",
+        "code": "3_29",
+        "arrondissementId": "6de8cf9e-89a1-4e58-802d-7279e9eb7047"
+      },
+      {
+        "id": "7f2b9325-6358-4230-afbf-e200b008dfce",
+        "name": "Mandialaza Amb/gana",
+        "code": "3_30",
+        "arrondissementId": "6de8cf9e-89a1-4e58-802d-7279e9eb7047"
+      },
+      {
+        "id": "5b732508-2b72-459e-9fa6-98c03c2c71d5",
+        "name": "Mandialaza Ambodivona",
+        "code": "3_31",
+        "arrondissementId": "6de8cf9e-89a1-4e58-802d-7279e9eb7047"
+      },
+      {
+        "id": "bae0a7cc-9591-44fd-b346-7b670f1b4355",
+        "name": "Mandialaza Ankadifotsy",
+        "code": "3_32",
+        "arrondissementId": "6de8cf9e-89a1-4e58-802d-7279e9eb7047"
+      },
+      {
+        "id": "ee7d1040-a429-4ba9-85ee-deaa55df2d31",
+        "name": "Soavinandriana",
+        "code": "3_33",
+        "arrondissementId": "6de8cf9e-89a1-4e58-802d-7279e9eb7047"
+      },
+      {
+        "id": "24e9835d-2279-42a3-8238-7de1e3c71759",
+        "name": "Tsaramasay",
+        "code": "3_34",
+        "arrondissementId": "6de8cf9e-89a1-4e58-802d-7279e9eb7047"
+      }
+    ]
+  },
+  {
+    "id": "f46cd843-02da-44a8-ab0b-c33e9fc78b5f",
+    "name": "IIIème Arrondissement",
+    "fokontany": [
+      {
+        "id": "e928b0bb-7972-4bd5-af4b-da5a4462d768",
+        "name": "Ambanin\\'Ampamarinana",
+        "code": "4_01",
+        "arrondissementId": "f46cd843-02da-44a8-ab0b-c33e9fc78b5f"
+      },
+      {
+        "id": "dea689c0-437c-4a64-ad8e-796dc88332cb",
+        "name": "Ampefiloha Ambodirano",
+        "code": "4_02",
+        "arrondissementId": "f46cd843-02da-44a8-ab0b-c33e9fc78b5f"
+      },
+      {
+        "id": "98e892f3-ce18-485e-8703-4ebb536cb6f3",
+        "name": "Ampangabe Anjanakinifolo",
+        "code": "4_03",
+        "arrondissementId": "f46cd843-02da-44a8-ab0b-c33e9fc78b5f"
+      },
+      {
+        "id": "fbeeaeb0-a4bd-43cd-b0f6-1662cda5d9e0",
+        "name": "Andavamamba Ambilanibe",
+        "code": "4_04",
+        "arrondissementId": "f46cd843-02da-44a8-ab0b-c33e9fc78b5f"
+      },
+      {
+        "id": "2664485c-4047-49f9-92e8-216b3fc90acf",
+        "name": "Ouest Ambohijanahary IIIG/IIIM",
+        "code": "4_05",
+        "arrondissementId": "f46cd843-02da-44a8-ab0b-c33e9fc78b5f"
+      },
+      {
+        "id": "eb526fc3-209a-4601-afe8-230b9054f115",
+        "name": "Ouest Ambohijanahary IIIH/IIIO",
+        "code": "4_06",
+        "arrondissementId": "f46cd843-02da-44a8-ab0b-c33e9fc78b5f"
+      },
+      {
+        "id": "f74f696a-2d1d-40f7-987d-672ba7af9016",
+        "name": "Ouest Ankadimbahoaka",
+        "code": "4_07",
+        "arrondissementId": "f46cd843-02da-44a8-ab0b-c33e9fc78b5f"
+      },
+      {
+        "id": "d0cc980f-65b0-4e22-8faa-12a83ae24813",
+        "name": "Ouest Mananjara",
+        "code": "4_08",
+        "arrondissementId": "f46cd843-02da-44a8-ab0b-c33e9fc78b5f"
+      },
+      {
+        "id": "a4d9e2e3-bace-49b7-a4a5-cd18ee920f57",
+        "name": "Angarangarana",
+        "code": "4_09",
+        "arrondissementId": "f46cd843-02da-44a8-ab0b-c33e9fc78b5f"
+      },
+      {
+        "id": "e30fb459-f123-4f44-9019-b4180b5c05d8",
+        "name": "Ankaditoho Marohoho",
+        "code": "4_10",
+        "arrondissementId": "f46cd843-02da-44a8-ab0b-c33e9fc78b5f"
+      },
+      {
+        "id": "9c43f53f-8277-49f2-91f5-3cf5974fa562",
+        "name": "Ankazotoho Anosimahavelona",
+        "code": "4_11",
+        "arrondissementId": "f46cd843-02da-44a8-ab0b-c33e9fc78b5f"
+      },
+      {
+        "id": "12a0b076-bd02-405b-a157-55adf79084e8",
+        "name": "Ambohibarikely",
+        "code": "4_12",
+        "arrondissementId": "f46cd843-02da-44a8-ab0b-c33e9fc78b5f"
+      },
+      {
+        "id": "21ddd428-b5c3-4349-b7ec-577f7e397cfc",
+        "name": "Anosibe Ouest I",
+        "code": "4_13",
+        "arrondissementId": "f46cd843-02da-44a8-ab0b-c33e9fc78b5f"
+      },
+      {
+        "id": "0a2cf3cb-ab41-4407-a0cd-9ecd757cf5a6",
+        "name": "Anosibe Ouest II",
+        "code": "4_14",
+        "arrondissementId": "f46cd843-02da-44a8-ab0b-c33e9fc78b5f"
+      },
+      {
+        "id": "39b3d49b-2ad1-4231-9fd4-4bbb18a6ec29",
+        "name": "Anosipatrana Ouest",
+        "code": "4_15",
+        "arrondissementId": "f46cd843-02da-44a8-ab0b-c33e9fc78b5f"
+      },
+      {
+        "id": "539b5f9d-db2d-4460-adb1-87a7dd61d1ee",
+        "name": "Anosipatrana Est",
+        "code": "4_16",
+        "arrondissementId": "f46cd843-02da-44a8-ab0b-c33e9fc78b5f"
+      },
+      {
+        "id": "e3e63594-c3c3-48f7-972f-c27214abd52a",
+        "name": "Ankazomanga Andraharo",
+        "code": "4_17",
+        "arrondissementId": "f46cd843-02da-44a8-ab0b-c33e9fc78b5f"
+      },
+      {
+        "id": "0984e154-800f-4735-9676-83fd08df85fc",
+        "name": "Anosizato Est I",
+        "code": "4_18",
+        "arrondissementId": "f46cd843-02da-44a8-ab0b-c33e9fc78b5f"
+      },
+      {
+        "id": "a67ed882-01b1-4384-926f-9a5c4ac71a13",
+        "name": "Anosizato Est II",
+        "code": "4_19",
+        "arrondissementId": "f46cd843-02da-44a8-ab0b-c33e9fc78b5f"
+      },
+      {
+        "id": "f42e8b8e-e523-458f-b349-8329ee8b7c8c",
+        "name": "Fiadanana III L",
+        "code": "4_20",
+        "arrondissementId": "f46cd843-02da-44a8-ab0b-c33e9fc78b5f"
+      },
+      {
+        "id": "3c338dbf-bd1e-46fc-81cf-d8a40fbe6d72",
+        "name": "Fiadanana III N",
+        "code": "4_21",
+        "arrondissementId": "f46cd843-02da-44a8-ab0b-c33e9fc78b5f"
+      },
+      {
+        "id": "33a30722-f3e1-4926-815c-08a21b3b436a",
+        "name": "Ilanivato Ampasika",
+        "code": "4_22",
+        "arrondissementId": "f46cd843-02da-44a8-ab0b-c33e9fc78b5f"
+      },
+      {
+        "id": "50e86f3d-4795-4c26-a500-5a2a778d135e",
+        "name": "Ivolaniray",
+        "code": "4_23",
+        "arrondissementId": "f46cd843-02da-44a8-ab0b-c33e9fc78b5f"
+      },
+      {
+        "id": "106f7862-3c1d-42a0-805f-5c6203c21cd2",
+        "name": "Mahamasina Sud",
+        "code": "4_24",
+        "arrondissementId": "f46cd843-02da-44a8-ab0b-c33e9fc78b5f"
+      },
+      {
+        "id": "a54ce4da-1f1a-4760-ac97-472104f9bfff",
+        "name": "Mananjara",
+        "code": "4_25",
+        "arrondissementId": "f46cd843-02da-44a8-ab0b-c33e9fc78b5f"
+      },
+      {
+        "id": "e104fd64-1bd8-4a6e-baa5-285db0f5ad60",
+        "name": "Mandrangobato I",
+        "code": "4_26",
+        "arrondissementId": "f46cd843-02da-44a8-ab0b-c33e9fc78b5f"
+      },
+      {
+        "id": "7bca8f00-d823-4c8e-9f72-74995ec246a6",
+        "name": "Mandrangobato II",
+        "code": "4_27",
+        "arrondissementId": "f46cd843-02da-44a8-ab0b-c33e9fc78b5f"
+      },
+      {
+        "id": "fb7c5569-72e2-404a-8bc9-bac08456f19f",
+        "name": "Soanierana III I",
+        "code": "4_28",
+        "arrondissementId": "f46cd843-02da-44a8-ab0b-c33e9fc78b5f"
+      },
+      {
+        "id": "6487c22f-2b47-4de6-846a-95a08ae2f451",
+        "name": "Soanierana III J",
+        "code": "4_29",
+        "arrondissementId": "f46cd843-02da-44a8-ab0b-c33e9fc78b5f"
+      },
+      {
+        "id": "c1e93c6a-38f1-46a7-ba6b-3b372be6b727",
+        "name": "Tsarafaritra",
+        "code": "4_30",
+        "arrondissementId": "f46cd843-02da-44a8-ab0b-c33e9fc78b5f"
+      },
+      {
+        "id": "6e14dfd9-2e91-4164-bc39-b143b82a2dc3",
+        "name": "Tsimialonjafy",
+        "code": "4_31",
+        "arrondissementId": "f46cd843-02da-44a8-ab0b-c33e9fc78b5f"
+      },
+      {
+        "id": "40a942b0-2174-4575-b345-7478c2c27776",
+        "name": "Ankadilalana",
+        "code": "4_32",
+        "arrondissementId": "f46cd843-02da-44a8-ab0b-c33e9fc78b5f"
+      }
+    ]
+  },
+  {
+    "id": "f684b51b-e0b3-4cf7-9d01-8ec186c09dcc",
+    "name": "IIIème Arrondissement",
+    "fokontany": [
+      {
+        "id": "541261a2-4907-4952-acf5-50f00375d63c",
+        "name": "Ambatobe",
+        "code": "5_01",
+        "arrondissementId": "f684b51b-e0b3-4cf7-9d01-8ec186c09dcc"
+      },
+      {
+        "id": "10a1f731-54e2-4faa-b6d3-5110e097cd6e",
+        "name": "Ambatokaranana",
+        "code": "5_02",
+        "arrondissementId": "f684b51b-e0b3-4cf7-9d01-8ec186c09dcc"
+      },
+      {
+        "id": "f158e5bb-6864-421a-a52e-c2cd19121b34",
+        "name": "Ambatomainty",
+        "code": "5_03",
+        "arrondissementId": "f684b51b-e0b3-4cf7-9d01-8ec186c09dcc"
+      },
+      {
+        "id": "5912c903-34d9-429f-939a-dd42952312fc",
+        "name": "Ambatomaro",
+        "code": "5_04",
+        "arrondissementId": "f684b51b-e0b3-4cf7-9d01-8ec186c09dcc"
+      },
+      {
+        "id": "49cd04d4-8008-4114-8d54-f18eca766f4b",
+        "name": "Amboditsiry",
+        "code": "5_05",
+        "arrondissementId": "f684b51b-e0b3-4cf7-9d01-8ec186c09dcc"
+      },
+      {
+        "id": "cb827138-dc43-4439-a852-c59fd085ecf1",
+        "name": "Ambodivoanjo",
+        "code": "5_06",
+        "arrondissementId": "f684b51b-e0b3-4cf7-9d01-8ec186c09dcc"
+      },
+      {
+        "id": "1fc72d7e-ffe7-471d-ac83-2fba66b5a1d1",
+        "name": "Ambohidahy",
+        "code": "5_07",
+        "arrondissementId": "f684b51b-e0b3-4cf7-9d01-8ec186c09dcc"
+      },
+      {
+        "id": "3cfe96fc-0f93-4529-8c4d-4e8851713ebe",
+        "name": "Ambohimirary",
+        "code": "5_08",
+        "arrondissementId": "f684b51b-e0b3-4cf7-9d01-8ec186c09dcc"
+      },
+      {
+        "id": "dc53e89d-9c09-4083-9da4-0fb39d966fd4",
+        "name": "Amboniloha",
+        "code": "5_09",
+        "arrondissementId": "f684b51b-e0b3-4cf7-9d01-8ec186c09dcc"
+      },
+      {
+        "id": "1b46c7d4-04f9-4a68-9196-6fb32e8b2c9e",
+        "name": "Ampanotokana",
+        "code": "5_10",
+        "arrondissementId": "f684b51b-e0b3-4cf7-9d01-8ec186c09dcc"
+      },
+      {
+        "id": "3f16beba-0c12-450f-b257-eba20179f059",
+        "name": "Analamahintsy cité",
+        "code": "5_11",
+        "arrondissementId": "f684b51b-e0b3-4cf7-9d01-8ec186c09dcc"
+      },
+      {
+        "id": "2790da6e-42c0-4726-96fe-6b14f1bb5490",
+        "name": "Analamahintsy Tanàna",
+        "code": "5_12",
+        "arrondissementId": "f684b51b-e0b3-4cf7-9d01-8ec186c09dcc"
+      },
+      {
+        "id": "ce00be71-5ec2-48cf-ab31-bc86353915d4",
+        "name": "Andraisoro",
+        "code": "5_13",
+        "arrondissementId": "f684b51b-e0b3-4cf7-9d01-8ec186c09dcc"
+      },
+      {
+        "id": "502d85bd-f3d2-4d5b-ab58-349ec8aad28b",
+        "name": "Androhibe",
+        "code": "5_14",
+        "arrondissementId": "f684b51b-e0b3-4cf7-9d01-8ec186c09dcc"
+      },
+      {
+        "id": "8a9203a0-589d-4854-a8f3-0f53bdee51d4",
+        "name": "Anjanhary II A",
+        "code": "5_15",
+        "arrondissementId": "f684b51b-e0b3-4cf7-9d01-8ec186c09dcc"
+      },
+      {
+        "id": "9b4c159c-c9c9-4b7f-808f-319e50397f86",
+        "name": "Anjanahary II N",
+        "code": "5_16",
+        "arrondissementId": "f684b51b-e0b3-4cf7-9d01-8ec186c09dcc"
+      },
+      {
+        "id": "bc9cac2c-7c74-4ab1-a62d-39ea08f563a2",
+        "name": "Anjanahary II O",
+        "code": "5_17",
+        "arrondissementId": "f684b51b-e0b3-4cf7-9d01-8ec186c09dcc"
+      },
+      {
+        "id": "fc065fb2-7c78-41c0-b2b7-c2e056573cbd",
+        "name": "Anjanahary II S",
+        "code": "5_18",
+        "arrondissementId": "f684b51b-e0b3-4cf7-9d01-8ec186c09dcc"
+      },
+      {
+        "id": "d3855260-ecb9-45c3-9ba6-0db5c233f0de",
+        "name": "Ankadindramamy",
+        "code": "5_19",
+        "arrondissementId": "f684b51b-e0b3-4cf7-9d01-8ec186c09dcc"
+      },
+      {
+        "id": "81c8aaae-94af-4b36-9a1e-22168e8af2a0",
+        "name": "Ivandry",
+        "code": "5_20",
+        "arrondissementId": "f684b51b-e0b3-4cf7-9d01-8ec186c09dcc"
+      },
+      {
+        "id": "f7143b64-08dd-465a-b66f-2af0d98cdf00",
+        "name": "Manjakaray II B",
+        "code": "5_21",
+        "arrondissementId": "f684b51b-e0b3-4cf7-9d01-8ec186c09dcc"
+      },
+      {
+        "id": "6b25cabd-8a99-4c32-a65d-2bfe96f769ed",
+        "name": "Manjakaray II C",
+        "code": "5_22",
+        "arrondissementId": "f684b51b-e0b3-4cf7-9d01-8ec186c09dcc"
+      },
+      {
+        "id": "af078a5f-0b65-49ee-a079-d989a0cf28e1",
+        "name": "Manjakaray II D",
+        "code": "5_23",
+        "arrondissementId": "f684b51b-e0b3-4cf7-9d01-8ec186c09dcc"
+      },
+      {
+        "id": "177a46b2-fe1b-4395-813c-09059a95dbbd",
+        "name": "Morarano",
+        "code": "5_24",
+        "arrondissementId": "f684b51b-e0b3-4cf7-9d01-8ec186c09dcc"
+      },
+      {
+        "id": "8f3b8bf2-739f-4e77-8245-2db3745b374a",
+        "name": "Nanisana",
+        "code": "5_25",
+        "arrondissementId": "f684b51b-e0b3-4cf7-9d01-8ec186c09dcc"
+      },
+      {
+        "id": "a499592f-b02b-4e08-90bc-21498e435c31",
+        "name": "Soavimasoandro",
+        "code": "5_26",
+        "arrondissementId": "f684b51b-e0b3-4cf7-9d01-8ec186c09dcc"
+      },
+      {
+        "id": "186f75ca-df92-4e22-b1f9-6cd474d12a98",
+        "name": "Tsarahonenana",
+        "code": "5_27",
+        "arrondissementId": "f684b51b-e0b3-4cf7-9d01-8ec186c09dcc"
+      }
+    ]
+  },
+  {
+    "id": "c1ed19d9-81f4-4cbc-aafc-189b4e190358",
+    "name": "IIIème Arrondissement",
+    "fokontany": [
+      {
+        "id": "54b9e463-f552-405a-8738-8e8120fa34e6",
+        "name": "Ambaravarankazo",
+        "code": "6_01",
+        "arrondissementId": "c1ed19d9-81f4-4cbc-aafc-189b4e190358"
+      },
+      {
+        "id": "c537ecce-78e3-4316-8bf6-0d4e1919fb6c",
+        "name": "Ambatolampy",
+        "code": "6_02",
+        "arrondissementId": "c1ed19d9-81f4-4cbc-aafc-189b4e190358"
+      },
+      {
+        "id": "e2eb85d3-df31-42b1-baaa-3ed410118a85",
+        "name": "Amboavahy",
+        "code": "6_03",
+        "arrondissementId": "c1ed19d9-81f4-4cbc-aafc-189b4e190358"
+      },
+      {
+        "id": "2559d060-334b-482f-98e6-7bae595629b4",
+        "name": "Ambodihady",
+        "code": "6_04",
+        "arrondissementId": "c1ed19d9-81f4-4cbc-aafc-189b4e190358"
+      },
+      {
+        "id": "d69b5339-1fef-40c6-af44-0fbfa8522f08",
+        "name": "Ambodimita",
+        "code": "6_05",
+        "arrondissementId": "c1ed19d9-81f4-4cbc-aafc-189b4e190358"
+      },
+      {
+        "id": "66332cda-9436-4227-b188-6284e92ec9fe",
+        "name": "Ambodivona",
+        "code": "6_06",
+        "arrondissementId": "c1ed19d9-81f4-4cbc-aafc-189b4e190358"
+      },
+      {
+        "id": "1ade0616-62db-4c6e-91f3-88b6a2f650d5",
+        "name": "Ambodivonkely",
+        "code": "6_07",
+        "arrondissementId": "c1ed19d9-81f4-4cbc-aafc-189b4e190358"
+      },
+      {
+        "id": "3006e18f-3540-4f27-9fbd-e47960ef08d1",
+        "name": "Ambohidroa",
+        "code": "6_08",
+        "arrondissementId": "c1ed19d9-81f4-4cbc-aafc-189b4e190358"
+      },
+      {
+        "id": "ec2118e2-3bcd-4a60-b7ce-e599cf17d0ee",
+        "name": "Ambohimanandray",
+        "code": "6_09",
+        "arrondissementId": "c1ed19d9-81f4-4cbc-aafc-189b4e190358"
+      },
+      {
+        "id": "c82701de-6a46-4846-98bd-170ec623a847",
+        "name": "Ambohimandroso",
+        "code": "6_10",
+        "arrondissementId": "c1ed19d9-81f4-4cbc-aafc-189b4e190358"
+      },
+      {
+        "id": "11ec9ea1-67eb-4783-b9e5-ff7ab1a5dbe9",
+        "name": "Ambohimiadana Atsimo",
+        "code": "6_11",
+        "arrondissementId": "c1ed19d9-81f4-4cbc-aafc-189b4e190358"
+      },
+      {
+        "id": "f5e9b352-c86c-4198-9908-2edf55c5ce9e",
+        "name": "Ambohimiadana Avaratra",
+        "code": "6_12",
+        "arrondissementId": "c1ed19d9-81f4-4cbc-aafc-189b4e190358"
+      },
+      {
+        "id": "25be5fc9-dbb8-4fb1-8f59-239b8b79da4f",
+        "name": "Ambohimitsinjo",
+        "code": "6_13",
+        "arrondissementId": "c1ed19d9-81f4-4cbc-aafc-189b4e190358"
+      },
+      {
+        "id": "f7f8dd73-949c-4cb1-afb0-19560de50a28",
+        "name": "Amorona",
+        "code": "6_14",
+        "arrondissementId": "c1ed19d9-81f4-4cbc-aafc-189b4e190358"
+      },
+      {
+        "id": "da27b370-54f2-4607-8468-ab8810463700",
+        "name": "Ampandriambehivavy",
+        "code": "6_15",
+        "arrondissementId": "c1ed19d9-81f4-4cbc-aafc-189b4e190358"
+      },
+      {
+        "id": "a57ba9ed-8960-4ebf-836d-5fccb287715e",
+        "name": "Ampefiloha Ankeniheny",
+        "code": "6_16",
+        "arrondissementId": "c1ed19d9-81f4-4cbc-aafc-189b4e190358"
+      },
+      {
+        "id": "6078691f-dbb2-43eb-8f42-fd44bd4ef192",
+        "name": "Andraharo",
+        "code": "6_17",
+        "arrondissementId": "c1ed19d9-81f4-4cbc-aafc-189b4e190358"
+      },
+      {
+        "id": "33cd1c6b-e1b5-413d-b9bd-dc9c866b1338",
+        "name": "Andranomena",
+        "code": "6_18",
+        "arrondissementId": "c1ed19d9-81f4-4cbc-aafc-189b4e190358"
+      },
+      {
+        "id": "db0306ec-3ea3-4fc1-9a91-c3b5922452f4",
+        "name": "Anjanakimboro",
+        "code": "6_19",
+        "arrondissementId": "c1ed19d9-81f4-4cbc-aafc-189b4e190358"
+      },
+      {
+        "id": "51cb9168-5f42-4466-ad59-c048041eec35",
+        "name": "Ankazomanga Atsimo",
+        "code": "6_20",
+        "arrondissementId": "c1ed19d9-81f4-4cbc-aafc-189b4e190358"
+      },
+      {
+        "id": "b17e6757-fb72-4faa-8c61-255215bde02d",
+        "name": "Anosisoa",
+        "code": "6_21",
+        "arrondissementId": "c1ed19d9-81f4-4cbc-aafc-189b4e190358"
+      },
+      {
+        "id": "e550bb77-ff30-4cd1-b2bc-1eaac8331232",
+        "name": "Anosivavaka",
+        "code": "6_22",
+        "arrondissementId": "c1ed19d9-81f4-4cbc-aafc-189b4e190358"
+      },
+      {
+        "id": "0a83f9e5-d19c-4a9e-9660-5f239979e002",
+        "name": "Antanety Atsimo",
+        "code": "6_23",
+        "arrondissementId": "c1ed19d9-81f4-4cbc-aafc-189b4e190358"
+      },
+      {
+        "id": "78b3aa53-c10d-4a28-aed4-9a71bdca8ef8",
+        "name": "Antanety Avaratra",
+        "code": "6_24",
+        "arrondissementId": "c1ed19d9-81f4-4cbc-aafc-189b4e190358"
+      },
+      {
+        "id": "9bec4224-ea93-41c5-abf1-ec7afe1cb484",
+        "name": "Antanjombe Ambony",
+        "code": "6_25",
+        "arrondissementId": "c1ed19d9-81f4-4cbc-aafc-189b4e190358"
+      },
+      {
+        "id": "85f8cc6b-6d78-4000-88cc-1b4b7c254370",
+        "name": "Antanjombe Avaratra",
+        "code": "6_26",
+        "arrondissementId": "c1ed19d9-81f4-4cbc-aafc-189b4e190358"
+      },
+      {
+        "id": "29012174-bfa8-458e-9de7-11ef30a24989",
+        "name": "Antsararay",
+        "code": "6_27",
+        "arrondissementId": "c1ed19d9-81f4-4cbc-aafc-189b4e190358"
+      },
+      {
+        "id": "5ac2b975-7313-4cf7-8f25-ef295855873c",
+        "name": "Avaratanana",
+        "code": "6_28",
+        "arrondissementId": "c1ed19d9-81f4-4cbc-aafc-189b4e190358"
+      },
+      {
+        "id": "51e1b823-75f1-4fdc-8c52-9342a9132c35",
+        "name": "Avaratetezana",
+        "code": "6_29",
+        "arrondissementId": "c1ed19d9-81f4-4cbc-aafc-189b4e190358"
+      },
+      {
+        "id": "76b0c252-f61e-4737-b7ce-60e7bd4b546c",
+        "name": "Betafo",
+        "code": "6_30",
+        "arrondissementId": "c1ed19d9-81f4-4cbc-aafc-189b4e190358"
+      },
+      {
+        "id": "b342439e-8908-4c7c-8ba8-195ae1d9cc0d",
+        "name": "Anosibe Zaivola",
+        "code": "6_31",
+        "arrondissementId": "c1ed19d9-81f4-4cbc-aafc-189b4e190358"
+      }
+    ]
+  }
+]
